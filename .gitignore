@@ -2,3 +2,9 @@
 *.ipr
 *.iml
 .idea/
+*.bat
+gradlew
+build/
+gradle/
+.gradle/
+*.DS_Store
